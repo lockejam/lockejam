@@ -21,7 +21,3 @@ My work has focused on building applications that support business processes, wi
 - practical UI development
 - code organization and maintainability
 - internal tools and business applications
-
-## Current Focus
-
-Currently working on strengthening my public portfolio and technical growth
